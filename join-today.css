@@ -1,0 +1,23 @@
+.join-today {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 22rem;
+  /* hitta rätt färg */
+  background-color: rgb(255, 149, 0);
+  font-family: var(--font-family-frank);
+}
+
+.what-are-we-waiting-for-text {
+  opacity: 90%;
+  font-size: small;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.join-today {
+  color: whitesmoke;
+  font-weight: 700;
+  font-size: xx-large;
+}
