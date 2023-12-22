@@ -1,0 +1,12 @@
+.about-us {
+  text-align: center;
+  font-family: var(--font-family-frank);
+  background-color: var(--var-color-orange-global);
+  padding-bottom: 4rem;
+}
+
+.about-us-text-h1 {
+  padding-top: 2rem;
+  text-align: center;
+  color: white;
+}

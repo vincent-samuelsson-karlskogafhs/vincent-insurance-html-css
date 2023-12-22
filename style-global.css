@@ -14,4 +14,5 @@ img {
 :root {
   --font-family-frank: "Frank Ruhl Libre", sans-serif;
   --background-color-lightblue: rgb(135, 206, 250, 0.34);
+  --var-color-orange-global: rgb(255, 149, 0);
 }
