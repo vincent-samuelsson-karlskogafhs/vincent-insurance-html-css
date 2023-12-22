@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+.family {
+  font-family: var(--font-family-frank);
+}
+
+.imgfamily {
+  background-image: url(assets/img/family.png);
+  background-repeat: no-repeat;
+  height: 400px;
+}
