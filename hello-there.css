@@ -1,0 +1,16 @@
+.hello-there {
+  display: flex;
+  background-color: lightslategray;
+}
+
+.oh-hello-there-h1 {
+  font-family: var(--font-family-frank);
+  font-size: 2.1rem;
+  margin-top: 3.7rem;
+  margin-left: 0.5rem;
+}
+
+.img-hello {
+  display: flex;
+  margin-right: 4rem;
+}

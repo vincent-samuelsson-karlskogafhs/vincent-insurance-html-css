@@ -1,0 +1,22 @@
+.options-container {
+  display: grid;
+  text-align: center;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.option {
+  padding: 1rem;
+}
+
+.option1 {
+  background-color: yellow;
+}
+.option2 {
+  background-color: red;
+}
+.option3 {
+  background-color: blue;
+}
+.option4 {
+  background-color: gray;
+}
