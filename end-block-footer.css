@@ -1,0 +1,13 @@
+.end-block-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: blueviolet;
+  min-height: 16rem;
+}
+
+.end-block-smal-footer {
+  height: 2.6rem;
+  display: flex;
+  background-color: goldenrod;
+}

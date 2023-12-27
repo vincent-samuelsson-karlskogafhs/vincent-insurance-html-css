@@ -1,0 +1,10 @@
+.block-four {
+  background-color: rgb(235, 126, 87);
+}
+
+.block-one-text-four {
+  display: flex;
+  text-align: center;
+  padding-bottom: 4rem;
+  color: black;
+}
